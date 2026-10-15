@@ -1,0 +1,10 @@
+{
+  "active": true,
+  "clientExpiryDate": "2026-10-26T23:59:59",
+  "whitelistedDomains": [
+    "curtainsdirect.com.au",
+    "saleskarta.com",
+    "localhost",
+    "127.0.0.1"
+  ]
+}
