@@ -6,11 +6,11 @@ import 'swiper/css/navigation';
 import 'swiper/css/pagination';
 
 const galleryImages = [
-  "/lp/curtainsblinds/assets/past-work-1.jpg",
-  "/lp/curtainsblinds/assets/past-work-2.jpg",
-  "/lp/curtainsblinds/assets/past-work-3.jpg",
-  "/lp/curtainsblinds/assets/past-work-4.jpg",
-  "/lp/curtainsblinds/assets/past-work-5.jpg"
+  "https://curtains.saleskarta.com/assets/past-work-1.jpg",
+  "https://curtains.saleskarta.com/assets/past-work-2.jpg",
+  "https://curtains.saleskarta.com/assets/past-work-3.jpg",
+  "https://curtains.saleskarta.com/assets/past-work-4.jpg",
+  "https://curtains.saleskarta.com/assets/past-work-5.jpg"
 ];
 
 export default function PastWorkGallery() {

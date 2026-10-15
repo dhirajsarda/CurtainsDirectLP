@@ -12,8 +12,8 @@ export default function BeforeAfterSlider({ openModal }) {
         
         <div className="rounded-3xl overflow-hidden shadow-2xl border-4 border-white mb-12 relative cursor-ew-resize">
           <ReactCompareSlider
-            itemOne={<ReactCompareSliderImage src="/lp/curtainsblinds/assets/before.png" alt="Plain Window" />}
-            itemTwo={<ReactCompareSliderImage src="/lp/curtainsblinds/assets/after.png" alt="Styled Window with Curtains" />}
+            itemOne={<ReactCompareSliderImage src="https://curtains.saleskarta.com/assets/before.png" alt="Plain Window" />}
+            itemTwo={<ReactCompareSliderImage src="https://curtains.saleskarta.com/assets/after.png" alt="Styled Window with Curtains" />}
             className="h-[350px] md:h-[600px] w-full"
           />
           <div className="absolute top-6 left-6 bg-slate-900/50 backdrop-blur-md text-white px-4 py-2 rounded-full font-bold text-sm z-10 pointer-events-none uppercase tracking-wider">Before</div>

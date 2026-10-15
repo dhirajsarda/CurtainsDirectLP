@@ -17,7 +17,7 @@ export default function HeroSection({ openModal }) {
     <section className="relative w-full h-[calc(100vh-60px)] min-h-[580px] sm:min-h-[650px] flex flex-col justify-center bg-slate-100 overflow-hidden">
       <div className="absolute inset-0 z-0 select-none">
         <img 
-          src="/lp/curtainsblinds/assets/curtains.png" 
+          src="https://curtains.saleskarta.com/assets/curtains.png" 
           alt="Luxury Curtains Direct Background" 
           className="w-full h-full object-cover"
         />

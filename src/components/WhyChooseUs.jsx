@@ -39,7 +39,7 @@ export default function WhyChooseUs({ openModal }) {
           </div>
           <div className="relative order-first lg:order-last mb-10 lg:mb-0">
              <div className="aspect-square bg-slate-100 rounded-full absolute -right-12 -top-12 w-full z-0 blur-3xl opacity-50"></div>
-             <img src="/lp/curtainsblinds/assets/why-choose-us.png" 
+             <img src="https://curtains.saleskarta.com/assets/why-choose-us.png" 
                   alt="Friendly Professional Installer" 
                   className="rounded-3xl shadow-2xl relative z-10 border-8 border-white" />
           </div>

@@ -9,8 +9,8 @@ export default function FitSection({ openModal }) {
           <div className="order-2 lg:order-1 relative">
             <div className="absolute inset-0 bg-brand-coral -rotate-2 rounded-3xl scale-105 opacity-20"></div>
             <img 
-              src="/lp/curtainsblinds/assets/curtains.png" 
-              onError={(e) => { e.target.src = '/lp/curtainsblinds/assets/curtains.png'; }}
+              src="https://curtains.saleskarta.com/assets/curtains.png" 
+              onError={(e) => { e.target.src = 'https://curtains.saleskarta.com/assets/curtains.png'; }}
               alt="Perfect Custom Fit Curtains" 
               className="relative z-10 w-full h-[550px] object-cover rounded-3xl shadow-2xl border-4 border-white" 
             />

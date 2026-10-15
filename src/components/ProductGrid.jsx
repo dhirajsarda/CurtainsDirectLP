@@ -5,21 +5,21 @@ const productCategories = [
   {
     id: 'curtains',
     name: 'Custom Curtains',
-    image: '/lp/curtainsblinds/assets/curtains.png',
+    image: 'https://curtains.saleskarta.com/assets/curtains.png',
     keywords: ['S-Fold Curtains', 'Wave Fold Curtains', 'Blockout Curtains', 'Sheer Curtains', 'Pinch Pleat Curtains'],
     desc: 'From elegant, light-filtering sheer drop curtains to heavy thermal blockouts designed for shift-workers and media rooms. Our Melbourne factory tailors perfect, floor-to-ceiling custom drapery.',
   },
   {
     id: 'blinds',
     name: 'Premium Blinds',
-    image: '/lp/curtainsblinds/assets/blinds.png',
+    image: 'https://curtains.saleskarta.com/assets/blinds.png',
     keywords: ['Roller Blinds', 'Roman Blinds', 'Venetian Blinds', 'Double Roller Blinds', 'Zebra Blinds'],
     desc: 'Minimalist profiles with maximum control. We manufacture bespoke blind solutions including functional double rollers, elegant fabric romans, and modern venetians tailored to your exact frame.',
   },
   {
     id: 'motorisation',
     name: 'Smart Motorisation',
-    image: '/lp/curtainsblinds/assets/motorisation.png',
+    image: 'https://curtains.saleskarta.com/assets/motorisation.png',
     keywords: ['Motorised Blinds', 'Automated Curtains', 'Somfy Experts', 'Smart Home Integration', 'Wire-Free Motors'],
     desc: 'Bring your home into the future. With ultra-quiet, wire-free or hardwired smart motors, you can control your entire home\'s light footprint at the press of a single button or voice command.',
   }

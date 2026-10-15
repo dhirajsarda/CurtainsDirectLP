@@ -5,7 +5,7 @@ export default function LeadMagnetHook({ openModal }) {
     <section className="py-24 relative bg-slate-900 flex items-center justify-center overflow-hidden">
       <div className="absolute inset-0 z-0 opacity-40">
         <img 
-          src="/lp/curtainsblinds/assets/lead-magnet.png" 
+          src="https://curtains.saleskarta.com/assets/lead-magnet.png" 
           alt="Curtain Styling Guide" 
           className="w-full h-full object-cover blur-sm"
         />
